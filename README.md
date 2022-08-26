@@ -181,7 +181,7 @@ python ./CNN_embeddings_projector/read_tsv.py --metadata=metadata.tsv \
     --embeddings_path=tensors.tsv --save_path=distances.txt
 ```
 
-# Citing
+## Citing
 
 Our results are available as preprints at arXiv: 
 
