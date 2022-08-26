@@ -181,6 +181,36 @@ python ./CNN_embeddings_projector/read_tsv.py --metadata=metadata.tsv \
     --embeddings_path=tensors.tsv --save_path=distances.txt
 ```
 
+# Citing
+
+Our results are available as preprints at arXiv: 
+
+[GAN-based generative modelling for dermatological applications -- comparative study](https://arxiv.org/abs/2208.11702)
+
+```
+@misc{https://doi.org/10.48550/arxiv.2208.11702,
+  doi = {10.48550/ARXIV.2208.11702},
+  url = {https://arxiv.org/abs/2208.11702},
+  author = {Carrasco Limeros, Sandra and Majchrowska, Sylwia and Zoubi, Mohamad Khir and Rosén, Anna and Suvilehto, Juulia and Sjöblom, Lisa and Kjellberg, Magnus},
+  title = {GAN-based generative modelling for dermatological applications -- comparative study},
+  publisher = {arXiv},
+  year = {2022},
+}
+```
+
+[The (de)biasing effect of GAN-based augmentation methods on skin lesion images](https://arxiv.org/abs/2206.15182)
+
+```
+@misc{https://doi.org/10.48550/arxiv.2206.15182,
+  doi = {10.48550/ARXIV.2206.15182},
+  url = {https://arxiv.org/abs/2206.15182},
+  author = {Mikołajczyk, Agnieszka and Majchrowska, Sylwia and Carrasco Limeros, Sandra},
+  title = {The (de)biasing effect of GAN-based augmentation methods on skin lesion images},
+  publisher = {arXiv},
+  year = {2022},
+  }
+```
+
 ## License
 
 This repository depends on [NVIDIA Corporation's repository]().
