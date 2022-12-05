@@ -198,17 +198,20 @@ Our results are available as preprints at arXiv:
 }
 ```
 
-[The (de)biasing effect of GAN-based augmentation methods on skin lesion images](https://arxiv.org/abs/2206.15182)
+[The (de)biasing effect of GAN-based augmentation methods on skin lesion images](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_42)
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2206.15182,
-  doi = {10.48550/ARXIV.2206.15182},
-  url = {https://arxiv.org/abs/2206.15182},
-  author = {Mikołajczyk, Agnieszka and Majchrowska, Sylwia and Carrasco Limeros, Sandra},
-  title = {The (de)biasing effect of GAN-based augmentation methods on skin lesion images},
-  publisher = {arXiv},
-  year = {2022},
-  }
+@inproceedings{Mikolajczyk:22,
+    author="Miko{\l}ajczyk, Agnieszka and Majchrowska, Sylwia and Carrasco Limeros, Sandra",
+    editor="Wang, Linwei and Dou, Qi and Fletcher, P. Thomas and Speidel, Stefanie and Li, Shuo",
+    title="The (de)biasing Effect of GAN-Based Augmentation Methods on Skin Lesion Images",
+    booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022",
+    year="2022",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="437--447",
+    isbn="978-3-031-16452-1"
+}
 ```
 
 ## License
