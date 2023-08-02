@@ -183,7 +183,35 @@ python ./CNN_embeddings_projector/read_tsv.py --metadata=metadata.tsv \
 
 ## Citing
 
-Our results are available as preprints at arXiv: 
+Our results are available in form of papers: 
+
+[Assessing GAN-Based Generative Modeling on Skin Lesions Images](https://doi.org/10.1007/978-3-031-37649-8_10)
+
+```
+@InProceedings{10.1007/978-3-031-37649-8_10,
+    author="Carrasco Limeros, Sandra
+    and Majchrowska, Sylwia
+    and Zoubi, Mohamad Khir
+    and Ros{\'e}n, Anna
+    and Suvilehto, Juulia
+    and Sj{\"o}blom, Lisa
+    and Kjellberg, Magnus",
+    editor="Biele, Cezary
+    and Kacprzyk, Janusz
+    and Kope{\'{c}}, Wies{\l}aw
+    and Owsi{\'{n}}ski, Jan W.
+    and Romanowski, Andrzej
+    and Sikorski, Marcin",
+    title="Assessing GAN-Based Generative Modeling on Skin Lesions Images",
+    booktitle="Digital Interaction and Machine Intelligence",
+    year="2023",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="93--102",
+    isbn="978-3-031-37649-8"
+}
+
+```
 
 [GAN-based generative modelling for dermatological applications -- comparative study](https://arxiv.org/abs/2208.11702)
 
